@@ -223,6 +223,11 @@
       </e>
       <e p="FireBook.csproj" t="IncludeRecursive" />
       <e p="FireBook.sln" t="IncludeFlat" />
+      <e p="Migrations" t="Include">
+        <e p="20191020000128_AddIdentity.Designer.cs" t="Include" />
+        <e p="20191020000128_AddIdentity.cs" t="Include" />
+        <e p="ApplicationDbContextModelSnapshot.cs" t="Include" />
+      </e>
       <e p="Models" t="Include">
         <e p="ApplicationUser.cs" t="Include" />
       </e>
